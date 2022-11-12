@@ -1,3 +1,5 @@
+- Calculadora falla cuando se hace click en cualquier botón
+
 - Botón de = hace que la calculadora falla.
   - Introduce un número
   - Selecciona una operación
@@ -6,5 +8,3 @@
   - trata de hacer otra operación
 
 - Calculara suma en lugar de restar
-
-- Calculadora falla cuando se hace click en el botón de punto decimal (.)
