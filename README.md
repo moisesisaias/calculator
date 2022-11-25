@@ -14,13 +14,19 @@ Try It
 
 
 Install
----
+  - `npm install`
 
-`npm install`
+or for nodejs v18
+  - `npm --openssl-legacy-provider install`
+---
 
 
 
 Usage
 ---
 
-`npm start`
+  - `npm start`
+  
+or for nodejs v18
+  - `npm run start:nodejs18`
+
